@@ -1,4 +1,4 @@
-```markdown
+
 # Problema del Agente Viajero - Solución con Algoritmo Genético
 
 ## Descripción
